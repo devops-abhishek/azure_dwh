@@ -1,0 +1,9 @@
+{
+	"name": "adfchordia",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af9ffca5-bb96-48b4-b733-39c0eab4276e",
+		"tenantId": "2c5c9625-c88a-4e9e-aec8-de369e5b3cc6"
+	}
+}

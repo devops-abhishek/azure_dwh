@@ -1,0 +1,7 @@
+{
+	"name": "IRchordia",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "IRchordia"
+	}
+}
